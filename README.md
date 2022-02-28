@@ -1,4 +1,4 @@
-<div align="center">YEEEZUS</div>
+<div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camtrup&theme=dark&show_icons=true)</div>
 
 💩
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?camtrup=anuraghazra&theme=dark&show_icons=true)
+
